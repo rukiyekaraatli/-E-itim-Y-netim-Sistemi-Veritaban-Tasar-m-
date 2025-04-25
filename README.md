@@ -1,7 +1,10 @@
-# 🎓 Egitim Yonetim Sistemi Veritabani Tasarimi
+# EduCore - Egitim Platformu Veritabani Tasarimi
 
 Merhaba! 👋 Bu repo, kullanıcıların eğitimlere katıldığı, sertifika kazandığı ve blog gönderileri paylaştığı bir **Eğitim Yönetim Sistemi** için kapsamlı bir **veritabanı tasarımı** sunar. 🚀
 
+📦 **EduCore**, eğitim odaklı platformlar için kapsamlı ve ilişkisel bir veritabanı tasarımı sunar. Bu proje, kullanıcıların kurslara kayıt olması, sertifika kazanması, blog gönderileri paylaşması ve tüm bu ilişkilerin tutarlı biçimde yönetilmesini sağlar.
+
+## 🚀 Özellikler
 ---
 
 ## 🧠 Projenin Amacı
